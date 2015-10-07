@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/vagrant/lara":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/lara","hostpath":"/home/edwin/Code/lara","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/edwin/Code/lara","disabled":false}}}

@@ -1,0 +1,28 @@
+{
+  "name": "Laravel-Base",
+  "version": "0.1",
+  "homepage": "https://github.com/KonnectIT/Laravel-Base",
+  "authors": [
+    "Edwin Heij <bahjaat@gmail.com>"
+  ],
+  "description": "Laravel installation with most used packages already included",
+  "main": "",
+  "moduleType": [
+    "yui"
+  ],
+  "keywords": [
+    "laravel"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "select2": "~4.0.0"
+  }
+}

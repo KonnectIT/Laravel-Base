@@ -15,6 +15,9 @@ var elixir = require('laravel-elixir');
 elixir(function(mix) {
     mix.sass('app.scss')
         .browserSync({
-            'proxy': 'lara.dev.local'
+            proxy: "lara.dev.local",
+            open: "local",
+            reloadDebounce: 2000,
+            startPath: "/"
         });
 });
